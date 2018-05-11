@@ -47,4 +47,5 @@ Inicialmente, é preciso que essas tarefas sejam colocadas em alguma ordem, como
 
 Levando em consideração que o sistema usado seja linux, basta entrar na pasta pelo terminal e digitar gcc -o exec minMaxLatenessAlg.cpp para utilizar o algoritmo.
 
-
+### Repositório original 
+https://github.com/LucasLermen/Lista5-MinimizeLateness/edit/master/README.md
